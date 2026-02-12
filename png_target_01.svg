@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <circle cx="250" cy="250" r="250" fill="blue"/>
+  <circle cx="250" cy="250" r="187.5" fill="#fff"/>
+  <circle cx="250" cy="250" r="125" fill="blue"/>
+  <circle cx="250" cy="250" r="62.5" fill="#fff"/>
+</svg>
